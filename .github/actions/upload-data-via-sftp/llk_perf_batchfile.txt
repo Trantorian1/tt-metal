@@ -1,2 +1,0 @@
-put -r generated/llk_perf/*.parquet
-ls -hal

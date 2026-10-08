@@ -129,6 +129,7 @@ src/firmware/riscv/targets/erisc/src/eth_routing_v2.cpp
 ttnn/tutorials/DiT/
 
 .envrc
+.env
 
 # tt_lib and _ttnn stubs
 *.pyi
